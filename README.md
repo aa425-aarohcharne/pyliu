@@ -15,13 +15,13 @@ Pyliu is a lightweight Python assembly experimentation framework for building, c
 Install from the project directory:
 
 ```bash
-pip install -e .
+pip install pyliu .
 ```
 
 Or, if you are using the local virtual environment:
 
 ```bash
-.venv\Scripts\python.exe -m pip install -e .
+.venv\Scripts\python.exe -m pip install pyliu.
 ```
 
 ## Optional QEMU dependency
